@@ -1,4 +1,4 @@
-# CIE-budget
+# CIE budget
 
 Budget Analyzer Program
 What it does
